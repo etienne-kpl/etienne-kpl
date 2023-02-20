@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I’m Étienne 👋
 
+I’m a web developper currently living in Paris, France 👨🏻‍💻
 <!--
 **etienne-kpl/etienne-kpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
